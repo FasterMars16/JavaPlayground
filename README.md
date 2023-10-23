@@ -1,7 +1,7 @@
 # JavaPlayground - Java Archive
 A playground for Java programs, testing, learning, etc.
 
-![image](https://img.shields.io/discord/1165912329318309909?style=plastic&label=Discord%20%7C%20Join&labelColor=blue&link=https%3A%2F%2Fdiscord.gg%2FD7Za4ntj9)
+![Discord Link](https://img.shields.io/discord/1165912329318309909?style=plastic&label=Discord%20%7C%20Join&labelColor=blue&link=https%3A%2F%2Fdiscord.gg%2FD7Za4ntj9)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/FasterMars16/JavaPlayground/master?style=plastic&logo=github)
 ![GitHub contributors](https://img.shields.io/github/contributors/FasterMars16/JavaPlayground?style=plastic&logo=github)
 ![GitHub top language](https://img.shields.io/github/languages/top/FasterMars16/JavaPlayground?style=plastic&logo=github)
@@ -26,16 +26,16 @@ The repository is split into different parts (sections) for the sake of organiza
 - Sandbox for random programs
 
 ## Usage / Installation
-We Strongly recommend using Eclipse IDE ![Static Badge](https://img.shields.io/badge/Eclipse-Download-purple?style=plastic&logo=eclipse&label=Eclipse%20IDE&link=https%3A%2F%2Fwww.eclipse.org%2F) for using this code project, although it is possible to use IntelliJ IDEA ![Static Badge](https://img.shields.io/badge/IntelliJ-Download-Red?style=plastic&logo=intellij-idea&label=IntelliJ%20IDEA&link=https%3A%2F%2Fwww.jetbrains.com%2Fidea%2F) to open and edit this project.
+We Strongly recommend using IntelliJ IDEA ![Static Badge](https://img.shields.io/badge/IntelliJ-Download-Red?style=plastic&logo=intellij-idea&label=IntelliJ%20IDEA&link=https%3A%2F%2Fwww.jetbrains.com%2Fidea%2F) for using this code project, although it is possible to use Eclipse IDE ![Static Badge](https://img.shields.io/badge/Eclipse-Download-purple?style=plastic&logo=eclipse&label=Eclipse%20IDE&link=https%3A%2F%2Fwww.eclipse.org%2F) to open and edit this project.
 
 ### Steps for Installation
 
 - Clone this repository to a folder with the command `git clone https://github.com/FasterMars16/JavaPlayground.git`
-- Open the workspace with Eclipse IDE.
+- Open the workspace with IntelliJ IDEA.
 
-### For IntelliJ
+### For Eclipse IDE
 
-When you open the project in IntelliJ IDEA, you will be prompted to convert the Eclipse Project to an IntelliJ compatible project, kindly accept this request.
+For using this project in Eclipse IDE, kindly refer to [this documentation](https://www.jetbrains.com/help/idea/exporting-an-intellij-idea-project-to-eclipse.html).
 
 ## Contributing
 Contribution requests are open, if you think your commits and pull requests will add value to the repository, feel free to contact us for reviewing your work.
